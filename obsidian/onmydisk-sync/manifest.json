@@ -1,0 +1,11 @@
+{
+  "id": "onmydisk-sync",
+  "name": "OnMyDisk Sync",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Sync notes to OnMyDisk via WebDAV",
+  "author": "OnMyDisk",
+  "authorUrl": "https://onmydisk.ru",
+  "fundingUrl": "https://onmydisk.ru",
+  "isDesktopOnly": false
+}

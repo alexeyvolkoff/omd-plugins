@@ -1,0 +1,19 @@
+{
+  "name": "onmydisk-obsidian",
+  "version": "1.0.0",
+  "description": "Sync Obsidian notes to OnMyDisk via WebDAV",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "node esbuild.config.mjs production"
+  },
+  "keywords": [],
+  "author": "OnMyDisk",
+  "license": "MIT",
+  "devDependencies": {
+    "esbuild": "^0.21.0",
+    "obsidian": "^1.7.0",
+    "tslib": "^2.6.0",
+    "typescript": "^5.5.0"
+  }
+}
