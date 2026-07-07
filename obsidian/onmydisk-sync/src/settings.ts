@@ -33,7 +33,7 @@ export class OnMyDiskSettingTab extends PluginSettingTab {
 
     new Setting(containerEl)
       .setName("WebDAV URL")
-      .setDesc("OnMyDisk WebDAV endpoint (e.g. https://webdav.onmydisk.ru/)")
+      .setDesc("OnMyDisk WebDAV endpoint (e.g. https://webdav.onmydisk.com/)")
       .addText((text) =>
         text
           .setPlaceholder("https://...")

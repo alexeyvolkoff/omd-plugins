@@ -1,6 +1,6 @@
 # omd-plugins
 
-A collection of plugins for various note-taking platforms that integrate with [OnMyDisk](https://onmydisk.ru) — a personal cloud/WebDAV storage solution.
+A collection of plugins for various note-taking platforms that integrate with [OnMyDisk](https://onmydisk.com) — a personal cloud/WebDAV storage solution.
 
 ## Available plugins
 

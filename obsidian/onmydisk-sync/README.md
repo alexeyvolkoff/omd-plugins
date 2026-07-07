@@ -1,6 +1,6 @@
 # OnMyDisk Sync for Obsidian
 
-An [Obsidian](https://obsidian.md) plugin that syncs your notes to [OnMyDisk](https://onmydisk.ru) via WebDAV.
+An [Obsidian](https://obsidian.md) plugin that syncs your notes to [OnMyDisk](https://onmydisk.com) via WebDAV.
 
 ## Features
 
@@ -31,7 +31,7 @@ Open **Settings** → **OnMyDisk Sync** and fill in:
 
 | Setting | Description |
 |---------|-------------|
-| **WebDAV URL** | Your OnMyDisk WebDAV endpoint (e.g. `https://webdav.onmydisk.ru/`) |
+| **WebDAV URL** | Your OnMyDisk WebDAV endpoint (e.g. `https://webdav.onmydisk.com/`) |
 | **Username** | WebDAV authentication username |
 | **Password** | WebDAV authentication password |
 | **Vault root folder** | Remote folder name where notes will be stored (default: `obsidian`) |
